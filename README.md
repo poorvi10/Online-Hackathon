@@ -1,2 +1,2 @@
 # Online-Hackathon
-A dashboard to manage and submit hackathon solutions
+A dashboard to manage and submit hackathon solutions. Project under design.
